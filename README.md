@@ -1,6 +1,6 @@
 # RealTime Sensing
 
-Repositorio del proyecto final Equipo 8 JERB.
+Repositorio del proyecto final Equipo 8 JERB. aguante el dukooooooooo
 
 ## Contenido
 
